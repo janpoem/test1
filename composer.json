@@ -9,7 +9,6 @@
             "email": "janpoem@163.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=7.1"
     },
