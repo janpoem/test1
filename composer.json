@@ -1,0 +1,20 @@
+{
+    "name": "kephp/kephp-github-test",
+    "description": "test1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jiankai Zeng",
+            "email": "janpoem@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1"
+    },
+    "archive": {
+        "exclude": ["/tests", "/docs", "/.gitattributes", "/.gitignore"]
+    },
+    "prefer-stable": true
+}
